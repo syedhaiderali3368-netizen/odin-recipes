@@ -1,0 +1,60 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+
+.hheading {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+}
+
+.bheading {
+    font-size: 60px;
+}
+
+.mheading {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    margin: -5px;
+}
+
+.lheading {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    margin: -5px;
+}
+
+.links {
+    text-decoration: none;
+    color: white;
+    transition: 100ms;
+    font-size: 25px;
+}
+
+.links:hover {
+    color: hsl(40, 58%, 60%);
+
+}
+
+.img {
+    width: 100%;
+    max-width: 900px;
+    height: auto;
+}
+
+.description {
+    text-align: center;
+    margin-top: -20px;
+}
+
+.footer{
+    text-align: center;
+}
